@@ -23,8 +23,6 @@ public class OrangeHRM_Admin_Configuration_EmailConfiguration_TestCase2 extends 
 	OrangeHRM_Admin_Configuration_EmailConfiguration  emailconfiguration;
 	//SeleniumUtility selut = new SeleniumUtility(driver);
 
-	
-
 	@BeforeClass
 	public void Start() throws IOException {
 		launchApp();
