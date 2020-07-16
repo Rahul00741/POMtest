@@ -1,0 +1,2 @@
+cd C:\Users\user1\git\POMDemo\POMDemo
+mvn clean install
